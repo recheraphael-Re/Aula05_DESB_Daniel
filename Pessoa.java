@@ -16,6 +16,3 @@ public class Pessoa{
 }
 
 
-class Consultor extends Pessoa{
-    
-}
